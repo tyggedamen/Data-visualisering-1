@@ -1,0 +1,9 @@
+.main-table {
+    table-layout: fixed;
+    width: 50%;
+}
+
+.main-table th {
+    text-align: center;
+    color: blue;
+}
